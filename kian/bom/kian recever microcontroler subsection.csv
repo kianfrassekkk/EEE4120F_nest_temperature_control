@@ -1,0 +1,8 @@
+"Reference","Value","Footprint","Datasheet","LCSC","Sim.Device","Sim.Pins","Sim.Type","cost","cost ","where","Qty"
+"e1","~","","","","","","","19","","https://www.communica.co.za/products/hkd-sd-card-read-write-module?utm_source=www.communica.co.za&variant=39359979651145&sfdr_ptcid=31591_617_678237302&sfdr_hash=92fe7115abe5c960047a41022fa61b8f","1"
+"J1, J3","Conn_01x20_Pin","","~","","","","","24","","brenden","2"
+"J2, J4","Conn_01x20_Socket","","~","","","","","20","","brenden","2"
+"Q1","NMOS","","https://ngspice.sourceforge.io/docs/ngspice-manual.pdf","","NMOS","1=D 2=G 3=S","VDMOS","10","10","brendon","1"
+"SW1","SW_MEC_5E","","http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371","","","","","2","","brendon","1"
+"U1","~","","","","","","","58","","https://www.robotics.org.za/LCD1602-WB-33V-I2C","1"
+"U3","PICO_W","footprint:LCC-40_L51.0-W21.0-P2.54-BL_RP2040-BASED","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf","C7203003","","","","150","","https://www.pishop.co.za/store/raspberry-pi-pico-wh-with-pre-soldered-headers?keyword=pico%20w&category_id=0","1"

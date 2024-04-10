@@ -2260,13 +2260,13 @@
     (property "where" "https://www.communica.co.za/products/hkd-sd-card-read-write-module?utm_source=www.communica.co.za&variant=39359979651145&sfdr_ptcid=31591_617_678237302&sfdr_hash=92fe7115abe5c960047a41022fa61b8f" (at 76.2 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 58f44b0a-c832-4990-b02b-ea916c38b664))
-    (pin "" (uuid 65fd95be-43c0-4336-8bc4-73b142c0e824))
-    (pin "" (uuid 075776d7-245d-4e90-8558-f3eba62fe4d5))
-    (pin "" (uuid 63c39d80-6137-4cd5-a78a-f3067ec12f9c))
-    (pin "" (uuid 513718b6-18d1-4eb5-891d-6513fffe4529))
-    (pin "" (uuid 092bc491-4772-4e7c-8a11-86ebc2395f0f))
-    (pin "" (uuid 1064d457-91a0-408b-99cc-1d9ee432d32d))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
+    (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
     (pin "" (uuid 453701b8-5fd1-423a-9b9e-2c8e608fb012))
     (instances
       (project "kian nest microcontroler"
@@ -2413,9 +2413,9 @@
     (property "cost" "58" (at 73.66 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid f82bda35-be4a-47ab-b501-360eb0785041))
-    (pin "" (uuid 4daf1474-6012-4d49-980a-533f6e92fec1))
-    (pin "" (uuid 3d88fbcb-5a60-476b-b880-4637f2fdbbbd))
+    (pin "" (uuid 3516a652-4f23-45a8-8ac9-49b18dd8f31a))
+    (pin "" (uuid 3516a652-4f23-45a8-8ac9-49b18dd8f31a))
+    (pin "" (uuid 3516a652-4f23-45a8-8ac9-49b18dd8f31a))
     (pin "" (uuid 3516a652-4f23-45a8-8ac9-49b18dd8f31a))
     (instances
       (project "kian recever microcontroler subsection"
