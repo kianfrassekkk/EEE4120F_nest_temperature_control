@@ -1,0 +1,23 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1953a512-28d5-46e9-a6eb-53c47674fe60)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "GND" (shape output) (at 19.05 31.75 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 4b14fbd2-139b-467d-a07d-ab33c14cc930)
+  )
+  (hierarchical_label "5V" (shape output) (at 19.05 17.78 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8d6ff936-10d2-4fc1-833f-c851f105c5ad)
+  )
+  (hierarchical_label "3.3V" (shape output) (at 19.05 24.13 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b7627d5e-a28b-4ed2-a528-02d63e9a0e65)
+  )
+)
