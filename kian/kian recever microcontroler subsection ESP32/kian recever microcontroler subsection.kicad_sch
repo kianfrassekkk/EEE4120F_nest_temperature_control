@@ -1,0 +1,63 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bcb09c04-afd8-4107-b961-c9a61db13eaf)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 30.48 26.67) (size 62.23 45.72) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0c2fe596-53f3-442a-b4e6-e1566eeaa3d4)
+    (property "Sheetname" "power " (at 30.48 25.9584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 30.48 72.9746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "GND" input (at 92.71 59.69 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 2b6bed93-8d94-4af4-9d42-8b099f69f364)
+    )
+    (pin "5V" input (at 92.71 33.02 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 9b2fcd13-beaa-4d9f-8f39-cb51e5231719)
+    )
+    (pin "3.3V" input (at 92.71 38.1 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 5d5e7e59-ca03-4d5c-9408-5b250198b4d7)
+    )
+    (instances
+      (project "kian recever microcontroler subsection"
+        (path "/bcb09c04-afd8-4107-b961-c9a61db13eaf" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 110.49 29.21) (size 41.91 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4ef76771-e6fe-42c4-86ed-bf354b4707de)
+    (property "Sheetname" "microntroler" (at 110.49 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "microcontroler.kicad_sch" (at 110.49 65.3546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 110.49 29.21 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "kian recever microcontroler subsection"
+        (path "/bcb09c04-afd8-4107-b961-c9a61db13eaf" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

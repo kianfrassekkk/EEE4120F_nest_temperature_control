@@ -1,0 +1,60 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a46a3765-7897-40e5-ac58-bd7b12c4224b)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 36.83 33.02) (size 92.71 50.8) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 06b5e8e9-1dca-48c2-9c0e-e2cf5a04d06b)
+    (property "Sheetname" "power module" (at 36.83 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 36.83 84.4046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "3.3 v" input (at 129.54 43.18 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid d9fe01cd-c855-492e-b808-03b954561899)
+    )
+    (pin "5 v" input (at 129.54 48.26 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 8f91dad9-360a-4a77-8387-f30c6582f705)
+    )
+    (pin "GND" input (at 129.54 54.61 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid fd799164-bef8-4cb4-bd7b-e5377e603d8e)
+    )
+    (instances
+      (project "kian nest microcontroler"
+        (path "/a46a3765-7897-40e5-ac58-bd7b12c4224b" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 148.59 29.21) (size 93.98 59.69) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 77e6f639-c4f2-4ab2-857e-8f8d655d838c)
+    (property "Sheetname" "microcontrolers" (at 148.59 28.4984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "microcontroler.kicad_sch" (at 148.59 89.4846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "kian nest microcontroler"
+        (path "/a46a3765-7897-40e5-ac58-bd7b12c4224b" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
