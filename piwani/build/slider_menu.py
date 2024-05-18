@@ -2,6 +2,7 @@
 The building blocks for adding a slider menu
 With time I'd add it to the main GUI
 """
+
 from tkinter import Tk, Scale, Button, Label
 from datetime import datetime
 

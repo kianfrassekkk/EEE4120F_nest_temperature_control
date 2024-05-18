@@ -1,7 +1,5 @@
 from pathlib import Path
 from Functions import *
-# from tkinter import *
-# Explicit imports to satisfy Flake8
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage, BOTH, END
 import numpy as np
 from matplotlib.figure import Figure

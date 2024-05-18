@@ -6,7 +6,7 @@ import csv
 
 def data_import() -> list:
     """
-    This function serves to import data from the txt file
+    This function imports data from the txt file
     """
     filename = filedialog.askopenfilename(
         title="Select Text File",
